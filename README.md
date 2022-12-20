@@ -8,4 +8,4 @@
 
 * Unsung are experts in both operational and compliance competences for enterprise-wide PKI cryptographic solutions
 
-Contact us [here](info@unsungltd.com)
+Contact us [here](mailto:info@unsungltd.com)
