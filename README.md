@@ -1,11 +1,7 @@
 # Unsung Ltd
 
-* Unsung are a trusted PKI company, who provide best in class solutions
+Specialists in PKI, Encryption, Authentication and Identity Management Unsung can provide consultancy and services to meet your technology requirements
 
-* Unsung are big enough to get any job done, and small enough to care
-
-* Unsung are technically skilled & experienced in Identity, Access Management & enterprise PKI cryptographic solutions
-
-* Unsung are experts in both operational and compliance competences for enterprise-wide PKI cryptographic solutions
+[https://www.unsungltd.com](https://www.unsungltd.com)
 
 Contact us [here](mailto:info@unsungltd.com)
